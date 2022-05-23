@@ -117,7 +117,7 @@ int main()
 			mostrarInformes(mascotas, TAM, tipos, TAMT, colores, TAMC, clientes, TAMCLI);
 			break;
             case 11:
-            mostrarInformesTrabajo(trabajos,TAMTRA,mascotas, TAM,tipos,TAMT,colores, TAMC,clientes , TAMCLI);
+           // mostrarInformesTrabajo(trabajos,TAMTRA,mascotas, TAM,tipos,TAMT,colores, TAMC,clientes , TAMCLI);
 			break;
 
         case 12:
