@@ -112,7 +112,7 @@ int altaMascota(eMascota vec[], int tam, eTipo tipos[], int tamTip,eColor colore
                 }*/
 
 
-                printf("Esta vacunado Si o No?: s ó n   ");
+                printf("Esta vacunado Si o No?: s Ã³ n   ");
                  fflush(stdin);
                 scanf("%c", &nuevoMascota.vacunado);
 
@@ -883,7 +883,7 @@ int menuTrabajo()
     scanf("%d", &opcion);
     return opcion;
 }
-
+/*
 int mostrarInformesTrabajo (eTrabajo trabajos[],int tamTra, eMascota vec[], int tam, eTipo tipos[], int tamTip, eColor colores[], int tamCol, eCliente clientes[],int tamCli )
 {
 
@@ -895,7 +895,7 @@ int mostrarInformesTrabajo (eTrabajo trabajos[],int tamTra, eMascota vec[], int 
     do{
         switch (menuInformes()) {
 		case 1:
-		    informarTrabajoXMascota(trabajos, tamTra, vec, tam,tipos,tamTip,colores,tamCol,clientes,tamCli, servicios, TAMS);
+		   // informarTrabajoXMascota(trabajos, tamTra, vec, tam,tipos,tamTip,colores,tamCol,clientes,tamCli, servicios, TAMS);
 		    break;
         case 2:
 
@@ -977,4 +977,4 @@ int validarMascota(eMascota mascotas[], int tam, int id){
 
     return esValido;
 }
-
+*/
