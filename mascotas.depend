@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1652270505 source:c:\programacion 1\mascotas\fecha.c
+	"fecha.h"
+
+1653270297 c:\programacion 1\mascotas\fecha.h
+
+1653264448 source:c:\programacion 1\mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+
+1653270669 c:\programacion 1\mascotas\mascotas.h
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653270307 c:\programacion 1\mascotas\tipo.h
+
+1652276285 source:c:\programacion 1\mascotas\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653270276 c:\programacion 1\mascotas\color.h
+
+1653263468 source:c:\programacion 1\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1652276395 source:c:\programacion 1\mascotas\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653226283 source:c:\programacion 1\mascotas\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653270288 c:\programacion 1\mascotas\servicio.h
+
+1653227186 source:c:\programacion 1\mascotas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1653269941 c:\programacion 1\mascotas\validaciones.h
+
+1653226283 source:c:\programacion 1\mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1653270651 c:\programacion 1\mascotas\trabajo.h
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"mascotas.h"
+	"validaciones.h"
+
+1652276395 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653270276 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\color.h
+
+1652270505 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\fecha.c
+	"fecha.h"
+
+1653270297 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\fecha.h
+
+1653226283 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653270288 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\servicio.h
+
+1652276285 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653270307 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\tipo.h
+
+1653316758 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\trabajo.c
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"mascotas.h"
+	"validaciones.h"
+	"trabajo.h"
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653316935 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\trabajo.h
+
+1653318801 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\mascotas.h
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"validaciones.h"
+	"cliente.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653277677 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\validaciones.h
+	"fecha.h"
+
+1653318558 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"validaciones.h"
+	"tipo.h"
+	"fecha.h"
+	"cliente.h"
+
+1653318461 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+
+1653278783 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1653310667 c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\cliente.h
+
+1653310674 source:c:\programacion 1\parciallaboratorio_davilamartinezcesar_1a\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fecha.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="129" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="trabajo.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3131" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="validaciones.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="492" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1876" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="mascotas.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4906" topLine="157" />
+		</Cursor>
+	</File>
+	<File name="servicio.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1809" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="tipo.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="961" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tipo.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1691" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="validaciones.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5502" topLine="155" />
+		</Cursor>
+	</File>
+	<File name="color.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1682" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="trabajo.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="172" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="color.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="90" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="fecha.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="77" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mascotas.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6739" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="servicio.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="225" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
